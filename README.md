@@ -1,7 +1,7 @@
 # mp3_shine_esp32
 Shine MP3 encoder for ESP32 - Last updated FEB 2019 - Compatibility with current IDF unknown!!
 
-This is a 'port' of the old Shine MP3 encoder originally written for ARM or MIPS arch devices, quote a long time ago.
+This is a 'port' of the old Shine MP3 encoder originally written for ARM or MIPS arch devices, quite a long time ago.
 
 Memory allocation has been optimised for the ESP32
 Some asm has been added to boost performance in the ESP32 arch
