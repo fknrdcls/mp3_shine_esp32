@@ -20,3 +20,11 @@ Any questions feel free to ask.
 
 Cheers!
 -fkn
+
+Limitations
+
+The encoding algorithm is rather simple. In particular, it does not have any Psychoacoustic Model.
+
+A bit of history
+
+This code was dug out from the dusty crates of those times before internet and github. It apparently was created by Gabriel Bouvigne sometime around the end of the 20th century. The encoder was converted circa 2001 by Pete Everett to fixed-point arithmetic for the RISC OS. Latest we know, Patrick Roberts had worked on the code to make it multi-platform and more library oriented. That was around 2006.
